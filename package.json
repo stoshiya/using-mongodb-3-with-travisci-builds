@@ -1,0 +1,24 @@
+{
+  "name": "using-mongodb-3-with-travisci-builds",
+  "version": "0.0.1",
+  "description": "Using mongodb 3.x with TravisCI builds",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoshiya/using-mongodb-3-with-travisci-builds.git"
+  },
+  "keywords": [
+    "mongodb 3",
+    "travis"
+  ],
+  "author": "Toshiya SAITOH <stoshiya@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stoshiya/using-mongodb-3-with-travisci-builds/issues"
+  },
+  "homepage": "https://github.com/stoshiya/using-mongodb-3-with-travisci-builds#readme"
+}
